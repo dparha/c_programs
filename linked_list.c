@@ -33,5 +33,7 @@ int main()
       return (1);
     }
 
+  free_list(head);
+  
   return 0;
 }
